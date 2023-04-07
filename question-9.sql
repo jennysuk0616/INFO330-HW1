@@ -1,0 +1,2 @@
+INSERT INTO persons (first_name, last_name, email, gender, title, age, address, city, state, postalcode, phone)
+VALUES ('Jenny', 'Suk', 'js@gmail.com', 'Female', 'Ms', '20', '1111 Pumpkin St', 'Pumpkin', 'WA', '11111', '111-111-1111');
